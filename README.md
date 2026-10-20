@@ -31,6 +31,8 @@ The app includes sample data and local demo personas for walkthroughs. Demo pers
 
 The HTML client must use only the Supabase project URL and a public anon/publishable key. Never put a service-role key or other server secret in this file. Cloud access also requires the matching database schema, row-level security policies, and provisioned Auth users with profile and role mappings. Email alerts need server-side secrets and a verified sender.
 
+For hosted Auth redirects, configure the Supabase project's [Auth URL settings](https://supabase.com/dashboard/project/gwzirnrlcfnxkrjxutcw/auth/url-configuration): set the Site URL to `https://msot-courseflow.netlify.app` and add that origin to the allowed redirect URLs. This dashboard setting is separate from the Git repository.
+
 Live user permissions and email delivery have not been verified. Do not use this prototype for sensitive student records until those controls are configured and tested.
 
 ## Current repository contents
