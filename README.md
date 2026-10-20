@@ -2,13 +2,17 @@
 
 CourseFlow is a web prototype for tracking course and syllabus progress across campuses. It was built for the Mirai School of Technology (MSOT) Student Challenge 2, Problem 1.
 
+## Live demo
+
+[Open CourseFlow](https://msot-courseflow.netlify.app)
+
 ## Open the app
 
 Open [`miraiProblem.html`](./miraiProblem.html) in a modern browser. The prototype can also be hosted as a static page; the app file is available at:
 
-`https://mayankchoubey01.github.io/Course_tracker/miraiProblem.html`
+`https://msot-courseflow.netlify.app`
 
-To enable that URL, turn on GitHub Pages for the repository and select the `main` branch as the publishing source.
+The live demo is hosted on Netlify. The repository contains the HTML source file and README.
 
 ## What it includes
 
