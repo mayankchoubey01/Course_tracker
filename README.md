@@ -8,11 +8,7 @@ CourseFlow is a web prototype for tracking course and syllabus progress across c
 
 ## Open the app
 
-Open [`miraiProblem.html`](./miraiProblem.html) in a modern browser. The prototype can also be hosted as a static page; the app file is available at:
-
-`https://msot-courseflow.netlify.app`
-
-The live demo is hosted on Netlify. The repository contains the HTML source file and README.
+Use the deployed app: [Open CourseFlow on Netlify](https://msot-courseflow.netlify.app).
 
 ## What it includes
 
